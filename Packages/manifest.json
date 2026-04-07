@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "be.elab.oneinputgame": "https://github.com/EloiStree/2024_08_23_upm_one_input_game.git",
+    "be.elab.skidtoycar": "https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git",
+    "be.elab.tickcollection": "https://github.com/EloiStree/2025_06_02_upm_tick_collection.git",
+    "be.elab.twowheelscar": "https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git",
     "com.unity.ai.navigation": "2.0.11",
     "com.unity.collab-proxy": "2.11.4",
     "com.unity.ide.rider": "3.0.39",

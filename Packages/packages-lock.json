@@ -7,6 +7,27 @@
       "dependencies": {},
       "hash": "3a5a7f40238abf434eb8a8556ca499e4a51773cf"
     },
+    "be.elab.skidtoycar": {
+      "version": "https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3c7c9577ccd3b9ec991c71d02977b845f3e04fc1"
+    },
+    "be.elab.tickcollection": {
+      "version": "https://github.com/EloiStree/2025_06_02_upm_tick_collection.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b8b5ad12818de05cab48a1be1653a266dba065a3"
+    },
+    "be.elab.twowheelscar": {
+      "version": "https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bddfb16fb3b21a16943a0bf9df8bbd82dbb5314b"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.11",
       "depth": 0,
